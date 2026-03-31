@@ -95,7 +95,7 @@ Dashboard
 ### 1️⃣ Clone repository
 
 ```
-git clone https://github.com/username/nama-repository.git
+https://github.com/WalZetass-kar/AplikasiBiodataSederhana.git
 ```
 
 ### 2️⃣ Masuk ke folder project
