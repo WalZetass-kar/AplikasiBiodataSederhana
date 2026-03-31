@@ -217,4 +217,4 @@ https://github.com/WalZetass-kar
 
 # 📄 Lisensi
 
-Project ini dibuat untuk **tujuan pembelajaran dan pengembangan pribadi**.
+Project ini dibuat untuk **tujuan pembelajaran dan pengembangan pribadi (aslinya ini UTS Java Programming 1 sih hehehe)**.
