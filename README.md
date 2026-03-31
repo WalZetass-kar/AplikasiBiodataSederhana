@@ -11,7 +11,7 @@ Project ini dibuat sebagai **media pembelajaran pemrograman Java dan pengelolaan
 
 Berikut tampilan utama aplikasi:
 
-![Preview Aplikasi](screenshot.png)
+![Preview Aplikasi](Screenshot.png)
 
 ---
 
