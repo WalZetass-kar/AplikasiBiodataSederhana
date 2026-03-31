@@ -63,6 +63,83 @@ Jika login berhasil:
 
 ---
 
+# 📖 Cara Menggunakan Aplikasi
+
+Berikut langkah penggunaan aplikasi setelah dijalankan:
+
+### 1️⃣ Login ke Sistem
+
+Saat aplikasi dibuka, pengguna harus melakukan login terlebih dahulu dengan **username dan password** yang terdaftar.
+
+Jika login berhasil:
+
+* Sistem akan membuka seluruh menu yang sebelumnya terkunci
+* Aktivitas login akan dicatat pada menu **Histori Login**
+
+---
+
+### 2️⃣ Mengelola Data Pengguna
+
+Masuk ke menu **Pengguna** untuk:
+
+* Menambahkan akun pengguna baru
+* Mengedit data pengguna
+* Menghapus pengguna yang tidak diperlukan
+
+---
+
+### 3️⃣ Mengisi Form Biodata
+
+Masuk ke menu **Form Biodata** untuk menginput data biodata seperti:
+
+* Nama
+* Alamat
+* Tanggal lahir
+* Informasi pribadi lainnya
+
+Data yang diinput akan tersimpan di dalam database.
+
+---
+
+### 4️⃣ Mengelola Data Pendidikan
+
+Pada menu **Pendidikan**, pengguna dapat menambahkan riwayat pendidikan seperti:
+
+* Nama sekolah atau universitas
+* Tahun masuk
+* Tahun lulus
+* Jurusan atau program studi
+
+---
+
+### 5️⃣ Mengelola Data Pengalaman
+
+Menu **Pengalaman** digunakan untuk menyimpan informasi pengalaman seperti:
+
+* Pengalaman kerja
+* Kegiatan organisasi
+* Pengalaman proyek
+
+---
+
+### 6️⃣ Melihat Histori Login
+
+Menu **Histori Login** menampilkan riwayat aktivitas login pengguna, seperti:
+
+* Username
+* Waktu login
+* Aktivitas sistem
+
+Fitur ini membantu memantau penggunaan aplikasi.
+
+---
+
+### 7️⃣ Mengganti Password
+
+Pengguna dapat mengganti password melalui menu **Ubah Password** untuk meningkatkan keamanan akun.
+
+---
+
 # 🧰 Teknologi yang Digunakan
 
 | Teknologi      | Keterangan                       |
@@ -101,7 +178,7 @@ https://github.com/WalZetass-kar/AplikasiBiodataSederhana.git
 ### 2️⃣ Masuk ke folder project
 
 ```
-cd nama-repository
+cd AplikasiBiodataSederhana.git
 ```
 
 ### 3️⃣ Buka project menggunakan IDE Java
@@ -132,6 +209,9 @@ Project ini dibuat untuk:
 # 👨‍💻 Developer
 
 **M. Ihwal Maulana**
+
+GitHub:
+https://github.com/WalZetass-kar
 
 ---
 
